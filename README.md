@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+    makepkg not war #stopwar 🇺🇦
     I'm mainly a backend developer. If you are good at designing and need a backend, feel free to contact me.
 </p>
 
