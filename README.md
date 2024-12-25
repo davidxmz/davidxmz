@@ -10,13 +10,8 @@
 </p>
 
 <p align="center">
-    makepkg not war #stopwar 🇺🇦
-</p>
-
-<p align="center">
     I'm mainly a backend developer. If you are good at designing and would like a backend, please contact me.
 </p>
-
 
 <h2 align="center">Technology Stack</h2>
 
@@ -82,7 +77,7 @@
 </p>
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=David-H-Dev&theme=redical">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidxmz&theme=redical">
 </p> 
 <hr>
 <p align="center">Feel free to contribute or give me a⭐</p>
