@@ -61,6 +61,7 @@
     <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=FCC624"/>
     <img src="https://img.shields.io/badge/-ArchLinux-black?style=flat-square&logo=archlinux&logoColor=1793D1"/>
     <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=0078D6"/>
+    <img src="https://img.shields.io/badge/-Mac-black?style=flat-square&logo=apple&logoColor=0078D6"/>
 </p>
 
 <h2 align="center">Reach me out on</h2>
