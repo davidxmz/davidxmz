@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-    <img src="https://badges.pufler.dev/visits/David-H-Dev/David-H-Dev"/> 
-    <img src="https://badges.pufler.dev/years/David-H-Dev"/>
-    <img src="https://badges.pufler.dev/repos/David-H-Dev"/>
-    <img src="https://badges.pufler.dev/commits/monthly/David-H-Dev" />
+    <img src="https://badges.pufler.dev/visits/davidxmz/davidxmz"/> 
+    <img src="https://badges.pufler.dev/years/davidxmz"/>
+    <img src="https://badges.pufler.dev/repos/davidxmz"/>
+    <img src="https://badges.pufler.dev/commits/monthly/davidxmz" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    I'm mainly a backend developer. If you are good at designing and need a backend, feel free to contact me.
+    I'm mainly a backend developer. If you are good at designing and would like a backend, please contact me.
 </p>
 
 
@@ -71,14 +71,14 @@
 <h2 align="center">Reach me out on</h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-david.xmz%238156-black?style=flat-square&logo=discord&logoColor=5865F2"/>
+    <img src="https://img.shields.io/badge/-david.xmz-black?style=flat-square&logo=discord&logoColor=5865F2"/>
 </p>
 
 <br>
 
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=David-H-Dev&show_icons=true&theme=radical&line_height=27">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-H-Dev&theme=radical">
+    <img  src="https://github-readme-stats.vercel.app/api?username=davidxmz&show_icons=true&theme=radical&line_height=27">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidxmz&theme=radical">
 </p>
 
 <p align="center">
